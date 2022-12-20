@@ -15,7 +15,7 @@ OPENASCII=Fore.GREEN+'''
 #########################################
 #    Marauder Flasher Script		#
 #    Python edition by SkeletonMan	#
-#    based off of a Windows based	#
+#    based off of a Windows based	#s
 #    script by Frog, UberGuidoz,	#
 #    and ImprovingRigamarole		#
 #					#

@@ -10,7 +10,7 @@ If you are flashing an ESP32 board, you need to install the [driver from here](h
 ## It is now simple to install or update Marauder on Linux, Mac OS X, or Windows.
 # How to use: 
 * Step 0 only has to be ran once
-0) run `pip3 install -r requirements.txt`. 
+0) run ``. 
 1) Connect the devboard or ESP32 board via USB.
 2) Press and hold the `BOOT` button on the module, press and release the `RESET` button.
 3) Release the BOOT button. 
@@ -63,3 +63,4 @@ Disclaimer: Includes Acknowledgements from the above linked repo from UberGuidoz
 * [Scorp](https://github.com/scorpion44/FZEasyMarauderFlash_ScorpBins) Compiling needed bins to be able to flash to ESP32-WROOM
 * [jacklythgoee](https://github.com/jacklythgoee) For getting a knockoff ESP32-WROOM and giving me info to be able to try to detect it so it could be flashed. 
 * [Der Skythe](https://github.com/derskythe) For fixing extra quotes I added without noticing and his awesome work on Flipper Zero Firmware
+pip3 install -r requirements.txt
